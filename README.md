@@ -9,6 +9,10 @@
 
 > A curated list of awesome resources, tools, protocols, and educational content related to Peer-to-Peer (P2P) Networks. P2P networks are decentralized architectures that enable nodes to connect directly, share resources, and collaborate without a central server.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/brandonhimpfen/awesome-p2p-networks">upstream project</a>’s organised references for peer-to-peer protocols, libraries, file sharing and development frameworks. Developers can identify existing networking components and educational material before building a custom distributed system. The practical contribution is easier reuse and comparison; resource efficiency depends on topology, replication and workload rather than on decentralisation alone.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 - [General Resources](#general-resources)
